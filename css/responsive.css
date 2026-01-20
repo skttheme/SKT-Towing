@@ -1,0 +1,156 @@
+@media screen and (max-width: 767px) {
+*{box-sizing:border-box}
+.header-right{float:none}
+.signin_wrap .widget-left,.signin_wrap .widget-right{display:table;float:none;margin:0 auto;text-align:center;width:auto}
+#wrapTwo{padding:20px 0}
+.one_four_page{float:none;margin:0 auto 10%;width:100%}
+.one_four_page_content{height:85.5%;width:100%}
+.one_four_page .view-all-btn{left:27%}
+.thumb_four_page img{height:auto;width:100%}
+.image-border{height:77%}
+.abouttowing .view-all-btn{float:left;margin-top:0}
+.su-row img{height:auto;width:100%}
+.news-box{float:none;margin-bottom:10%;margin-right:0;padding-bottom:0;width:auto}
+.news{min-height:260px}
+.date-news{width:80%}
+.testimonials-wrap{padding:0}
+#testimonials ul li{text-align:center}
+.emergency-left-col,.emergency-middle-col,.emergency-right-col{display:block;float:none;margin:0 auto 20px;text-align:center;width:auto}
+.towing-emergency h2,.towing-emergency h3{font-size:24px!important}
+.cols-2 .widget-column-1,.cols-2 .widget-column-3,.cols-3 .widget-column-1,.cols-3 .widget-column-2,.cols-3 .widget-column-3,.cols-4 .widget-column-1,.cols-4 .widget-column-2,.cols-4 .widget-column-3,.cols-4 .widget-column-4{float:none;margin:0;min-height:inherit;width:auto}
+.cols-2 .widget-column-1,.cols-3 .widget-column-1,.cols-4 .widget-column-1{padding-bottom:5%}
+.vertical-page .chartbox{margin-right:10px!important}
+.container{padding:0 10px;width:auto}
+.wrap_one,.signin_wrap{text-align:center;width:auto}
+.signin_wrap .right span{margin-right:5px}
+.signin_wrap .right{width:auto}
+.wrap_two img{float:none;margin:20px 0;width:auto}
+.ourclasses_col{margin-bottom:10%;margin-right:0;width:100%}
+.ourclasses_col img{height:auto;width:100%}
+.slide_info a.sldbutton{display:table}
+#sidebar #contactform_main input[type="text"],#sidebar #contactform_main input[type="email"],#sidebar #contactform_main input[type="tel"],#sidebar #contactform_main input[type="url"],#sidebar #contactform_main textarea{width:100%}
+#sitemain #testimonials ul li .tm_description,.nosidebar #testimonials ul li .tm_description{width:auto!important}
+.header{padding:0;width:100%}
+.header .header-inner{padding:15px 0 0;width:100%}
+.header .header-inner .logo{float:none;margin:0 0 15px;padding:0;text-align:center;width:100%}
+.one_third_page{float:none;margin:0 0 5%;width:100%}
+#sidebar{float:none;width:100%; margin-top:20px;}
+.sidebar-left{float:none!important;width:100%}
+.flotRight{float:none!important}
+.blog-post-repeat .post-thumb img{float:none;height:100%;margin-right:0;width:100%}
+.content-area{margin:0;padding:20px 10px;width:auto}
+.site-main{float:none;margin:0;padding:0;width:auto}
+#slider{margin:0;top:0}
+.nivo-caption{display:none!important}
+.contact_left,.contact_right{float:none;margin-bottom:10%;width:100%}
+.cols-3{display:block;margin-bottom:15%;margin-right:0;width:100%!important}
+.copyright-txt,.design-by{float:none;text-align:center}
+#contactform_main input[type="text"],#contactform_main input[type="email"],#contactform_main input[type="tel"],#contactform_main input[type="url"],#contactform_main textarea{width:100%}
+.recent-post img{margin:0 2% 2% 0}
+.signin_wrap{line-height:25px;padding:10px 0;text-align:center}
+.signin_wrap .fa{display:inline}
+.services-wrap,.welcome-wrap{text-align:center}
+.quovolve-nav span a{bottom:10%;top:auto}
+.searchbox{padding-left:0;width:100%}
+.wrap_one .fa{display:block;float:none;margin-right:0;text-align:center}
+.item{padding-left:10%;width:75%}
+.tm_thumb,#testimonials ul li .tm_description{float:none;width:100%}
+#testimonials ul li .tm_description p{text-align:left}
+.phone-no strong{display:inherit;width:auto}
+.signin_wrap .right,.signin_wrap .left{text-align:center}
+.signin_wrap .social-icons{width:auto}
+.signin_wrap .left span{float:none}
+.header .header-inner .nav ul li a .fa,.fixed .header-inner .nav ul li a .fa{display:none}
+.single-post h2, .page_content h1{margin:15px 0 15px 0;}
+.news a.read-more{left:30%;}
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.nivo-caption{display:block!important;left:5%!important;top:18%!important;width:90%!important}
+.slide_info{padding:0}
+.slide_info h2{font-size:30px!important;line-height:35px;margin-bottom:10px!important}
+.slide_info p{display:none}
+.one_four_page{width:50%}
+.one_four_page .view-all-btn{left:28%}
+.client_lists .client{margin:0 4% 5% 0;width:46%}
+.one_third_page{float:left;margin-right:4%;width:30%}
+.news{min-height:220px}
+.news-box{margin:0 auto 10%;width:70%}
+}
+@media screen and (max-width: 1169px) and (min-width: 768px) {
+*{box-sizing:border-box}
+.container{padding:0 10px;width:auto}
+.signin_wrap .right{width:61%}
+.signin_wrap .right span{margin-right:5px}
+.wrap_one,.signin_wrap{width:auto}
+.header{padding-bottom:0}
+.header .header-inner{padding:15px 0 0;width:auto}
+.header .header-inner .logo{float:none;margin:0 auto 10px;padding:0;text-align:center}
+.header-right{float:none}
+.thumb_four_page{min-height:230px;}
+.one_four_page{width:28%; margin-left:20px; line-height:20px;}
+.one_four_page img{height:auto;width:100%;}
+.one_four_page_content{height:65.8%;padding:20px;display:block; overflow:hidden; text-overflow:ellipsis;}
+.one_four_page .view-all-btn{left:22%;}
+.abouttowing .su-clearfix::before,.su-clearfix::after{display:initial!important}
+.abouttowing .su-column{margin:0!important}
+.abouttowing .view-all-btn{float:left;margin-top:0}
+.image-border{height:60%}
+.date-news{width:95%; box-sizing:border-box; display:table;}
+.news a.read-more{left:25%}
+.towing-emergency h2{font-size:26px!important}
+.towing-emergency h3{font-size:19px!important}
+.content-area{margin:0;padding:50px 20px;width:auto}
+.slide_info h2{font-size:30px!important;line-height:40px}
+.services-wrap .one_third{width:33.3%}
+.wrap_two img{margin-left:10px;margin-top:-70px;width:40%}
+.news{min-height:260px}
+#sitemain .date-news,.nosidebar .date-news{padding-left:5px;padding-right:5px;width:100%}
+#sitemain .news,.nosidebar .news{min-height:330px}
+#sitemain .news a.read-more,.nosidebar .news a.read-more{left:0;padding-left:0;padding-right:0;text-align:center;width:100%}
+#sidebar #contactform_main input[type="text"],#sidebar #contactform_main input[type="email"],#sidebar #contactform_main input[type="tel"],#sidebar #contactform_main input[type="url"],#sidebar #contactform_main textarea{width:100%}
+#sidebar{width:220px}
+.site-main{width:65%}
+.BlogPost{min-height:250px}
+.client_lists .client{width:14%}
+.wrap_one .fa{margin-bottom:30px}
+.testimonials-wrap{padding:0}
+.threebox .chooseus-image{height:auto;width:115px}
+.site-main{margin:20px 0 0 0;}
+.single-post h2, .page_content h1{margin: 15px 0;}
+#sidebar{margin: 20px 0 0 0;}
+.nivo-caption{top:30%;}
+}
+@media screen and (max-width: 1169px) and (min-width: 980px) {
+html{overflow-x:hidden}
+.signin_wrap .right{width:72%}
+.news{min-height:220px}
+.news a.read-more{left:33%}
+#sitemain .news,.nosidebar .news{min-height:260px!important}
+#sidebar{width:300px}
+.header .header-inner .logo{float:left;text-align:left}
+.header .header-inner{padding:0 20px}
+.slide_info h2{font-size:40px!important;line-height:50px}
+.one_four_page .view-all-btn{display:block}
+.image-border{height:70%}
+.one_four_page_content{height:77.5%;padding:15px}
+.abouttowing .su-frame-align-left{float:none!important}
+.towing-emergency h2{font-size:35px!important}
+.towing-emergency h3{font-size:26px!important}
+}
+@media screen and (max-width: 980px) {
+.toggleMenu{display:block}
+.header .header-inner .nav{background-color:#fff;float:none;margin:0;overflow-x:hidden;position:relative}
+.header .header-inner .nav ul{color:#000;float:none!important;margin:0;padding:0;width:100%!important}
+.header .header-inner .nav ul li{border-top:1px solid #ccc;display:block;float:none;text-align:left}
+.header .header-inner .nav ul li a{color:#000;display:block;padding:5px 10px!important}
+.header .header-inner .nav ul li a:hover{color:#fff}
+.header .header-inner .nav ul li ul,.header .header-inner .nav ul li ul ul{display:block!important}
+.header .header-inner .nav ul li ul li a::before{content:"» "}
+.header .header-inner .nav ul li ul li a{padding-left:20px!important}
+.header .header-inner .nav ul li ul li ul li a{padding-left:30px!important}
+.header .header-inner .nav ul li ul li ul li ul li a{padding-left:40px!important}
+.header .header-inner .nav ul li:hover > ul{background:rgba(0,0,0,0) none repeat scroll 0 0!important;background:transparent none repeat scroll 0 0!important;display:block;left:0;position:relative!important;right:0;top:0;width:auto!important}
+.header .header-inner .nav ul li:hover ul li ul,.header .header-inner .nav ul li:hover ul li:hover > ul,.header .header-inner .nav ul li:hover ul li:hover > ul li ul{background:transparent none repeat scroll 0 0!important;display:block;left:0;position:relative!important;right:0;top:0}
+.header .header-inner .nav ul li:hover ul li:hover ul,.header .header-inner .nav ul li:hover ul li:hover ul li:hover ul{left:0!important}
+.header .header-inner .nav ul li a .fa,.fixed .header-inner .nav ul li a .fa{display:none}
+}

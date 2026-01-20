@@ -1,0 +1,56 @@
+Version 1.0
+i)    Intial version Release
+
+Version 1.1
+i)    Fixed variable name with prefix issue in header.php
+ii)   Add custom-header in tags (style.css)
+iii)  Solved all responsive issues as reported by reviewer.
+iv)   Solved Tag page error issues.
+v)    Add colors scheme option.
+vi)   Add hide boxes option on home page.
+vii)  Add hide slider option.
+
+Version 1.2
+i)    Solved standard scripts and styles shouldn't be prefixed.
+ii)   Replace skttowing by skt-towing textdomain.
+ii)   Solved responsive service box overlapping issue.
+iii)  Solved home_url escapping issue.
+
+Version 1.3
+i)    Solved all issue as per reviewer comments.
+
+Version 1.4
+i)    As per reviewer comment we removed all dummy content if front page is set latest posts.
+
+Version 1.5
+i)    Remove lorem text from Home boxes and slider and add an informational message.
+ii)   Solved social default placeholders link issue.
+iii)  Instead of skt_towing_content and string_limit_words used the_excerpt and add filters for lenght.
+iv)   'skt_towing_admin_customize_script' enqueued on pages where its used.
+v)	  Confiqure Add Logo Option.
+
+Version 1.6	
+i)    As per reviewer comments use if ( current_user_can( 'edit_theme_options' ) ) to display the slider and service box 			      instructions only to users with permissions.
+
+Version 1.7	
+i)    Resolved slider and home boxes visibility issue when logged out. 
+
+Version 1.9
+i)  Compatibility with WordPress 6.4
+ii) Added company footer credits
+
+Version 1.10
+i)  Compatibility check with WordPress version 6.5
+ii) Footer credentials tweaked
+
+Version 1.11
+i)  Removed footer link.
+
+Version 1.12
+i)  Footer credentials tweaked and Compatibility check with WordPress version 6.7
+
+Version 1.13
+i)  Compatibility check with WordPress version 6.8
+
+Version 1.14
+i)  Refined footer link
